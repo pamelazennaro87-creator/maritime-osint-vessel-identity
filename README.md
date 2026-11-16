@@ -13,9 +13,10 @@ This repository collects structured case notes and pattern analysis. All informa
 
 ## Analytical Notes
 
-- [Flag & Identity Methodology](analysis/01-flag-identity-methodology.md) – Approach taken from portfolio research discipline
+- [Flag & Identity Methodology](analysis/01-flag-identity-methodology.md) – Approach from portfolio research discipline
 - [Flag Change Patterns 2025-2026](analysis/02-flag-change-patterns.md) – Observed migration of sanctioned vessels
 - [Ukrainian Sanctions Overview](analysis/03-ukraine-sanctions-overview.md) – GUR War & Sanctions vessel designations
+- [Global Monitoring, Modus Operandi & Captains](analysis/04-global-monitoring-modus-operandi-captains.md) – Monitoring sources, operational patterns, recruitment of masters
 
 ## Core Principle
 
