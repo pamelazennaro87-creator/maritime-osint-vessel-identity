@@ -1,6 +1,6 @@
 # Maritime OSINT – Vessel Identity, Flag Changes & Shadow Fleet Patterns
 
-Evidence-first open-source research on vessel identity reconstruction, historical name and flag changes, ownership/management networks, and indicators associated with shadow fleet operations.
+Evidence-first open-source research on vessel identity reconstruction, historical name and flag changes, ownership/management networks, and indicators associated with shadow fleet operations and related dual-use / military logistics.
 
 This repository collects structured case notes and pattern analysis. All information is drawn from publicly available sources (vessel databases, AIS-derived data, official sanctions lists, investigative reporting). Conclusions distinguish verified facts from analytical inference.
 
@@ -11,6 +11,7 @@ This repository collects structured case notes and pattern analysis. All informa
 | [01](cases/01-berill-imo-9311531.md) | BERILL | 9311531 | Long-term identity reconstruction through multiple name changes |
 | [02](cases/02-midag-imo-9266841.md) | MIDAG (ex-MIDAS) | 9266841 | False Zimbabwe flag, IRINI boarding Nov 2026, Kozmino loading |
 | [03](cases/03-patria-imo-9159921.md) | PATRIA | 9159921 | Sanctioned Ro-Ro, West Africa shuttle (Douala–Owendo), prior weapons reporting |
+| [04](cases/04-baltic-leader-imo-9220639.md) | BALTIC LEADER | 9220639 | Sanctioned Ro-Ro, Africa Corps military logistics network (C4ADS 2026) |
 
 ## Analytical Notes
 
