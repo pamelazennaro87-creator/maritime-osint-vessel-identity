@@ -17,6 +17,7 @@ This repository collects structured case notes and pattern analysis. All informa
 - [Flag Change Patterns 2025-2026](analysis/02-flag-change-patterns.md) – Observed migration of sanctioned vessels
 - [Ukrainian Sanctions Overview](analysis/03-ukraine-sanctions-overview.md) – GUR War & Sanctions vessel designations
 - [Global Monitoring, Modus Operandi & Captains](analysis/04-global-monitoring-modus-operandi-captains.md) – Monitoring sources, operational patterns, recruitment of masters
+- [Crewing Agencies](analysis/05-crewing-agencies.md) – Public investigations into firms staffing the shadow fleet
 
 ## Core Principle
 
