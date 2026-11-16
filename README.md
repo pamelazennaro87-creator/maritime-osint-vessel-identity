@@ -10,6 +10,7 @@ This repository collects structured case notes and pattern analysis. All informa
 |------|--------|-----|-------|
 | [01](cases/01-berill-imo-9311531.md) | BERILL | 9311531 | Long-term identity reconstruction through multiple name changes |
 | [02](cases/02-midag-imo-9266841.md) | MIDAG (ex-MIDAS) | 9266841 | False Zimbabwe flag, IRINI boarding Nov 2026, Kozmino loading |
+| [03](cases/03-patria-imo-9159921.md) | PATRIA | 9159921 | Sanctioned Ro-Ro, West Africa shuttle (Douala–Owendo), prior weapons reporting |
 
 ## Analytical Notes
 
